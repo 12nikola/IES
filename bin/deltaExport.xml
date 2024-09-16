@@ -1,0 +1,107 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="8">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="REGULARINTERVALSCHEDULE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RIS-00001" />
+            <Property id="IDOBJ_NAME" value="RegularI01" />
+            <Property id="IDOBJ_ALIASNAME" value="RIS_01" />
+            <Property id="BASICINTERVALSCHEDULE_STARTTIME" value="637090272000000000" />
+            <Property id="BASICINTERVALSCHEDULE_VAL1MULTIPLIER" value="k" />
+            <Property id="BASICINTERVALSCHEDULE_VAL1UNIT" value="h" />
+            <Property id="BASICINTERVALSCHEDULE_VAL2MULTIPLIER" value="m" />
+            <Property id="BASICINTERVALSCHEDULE_VAL2UNIT" value="h" />
+            <Property id="REGULARINTERVALSCHEDULE_ENDTIME" value="636846624000000000" />
+            <Property id="REGULARINTERVALSCHEDULE_TIMESTEP" value="5" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="REGULARINTERVALSCHEDULE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RIS-00002" />
+            <Property id="IDOBJ_NAME" value="RegularI01" />
+            <Property id="IDOBJ_ALIASNAME" value="RIS_01" />
+            <Property id="BASICINTERVALSCHEDULE_STARTTIME" value="637090272000000000" />
+            <Property id="BASICINTERVALSCHEDULE_VAL1MULTIPLIER" value="k" />
+            <Property id="BASICINTERVALSCHEDULE_VAL1UNIT" value="h" />
+            <Property id="BASICINTERVALSCHEDULE_VAL2MULTIPLIER" value="m" />
+            <Property id="BASICINTERVALSCHEDULE_VAL2UNIT" value="h" />
+            <Property id="REGULARINTERVALSCHEDULE_ENDTIME" value="636846624000000000" />
+            <Property id="REGULARINTERVALSCHEDULE_TIMESTEP" value="5" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="REGULARTIMEPOINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RTP_00001" />
+            <Property id="IDOBJ_NAME" value="RegularTP01" />
+            <Property id="IDOBJ_ALIASNAME" value="RTP_00001" />
+            <Property id="REGULARTIMEPOINT_SEQNUM" value="5" />
+            <Property id="REGULARTIMEPOINT_VAL1" value="20.5" />
+            <Property id="REGULARTIMEPOINT_VAL2" value="28.6" />
+            <Property id="REGULARTIMEPOINT_RINTERVALSCHEDULE" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="REGULARTIMEPOINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RTP_00002" />
+            <Property id="IDOBJ_NAME" value="RegularTP01" />
+            <Property id="IDOBJ_ALIASNAME" value="RTP_00001" />
+            <Property id="REGULARTIMEPOINT_SEQNUM" value="5" />
+            <Property id="REGULARTIMEPOINT_VAL1" value="20.5" />
+            <Property id="REGULARTIMEPOINT_VAL2" value="28.6" />
+            <Property id="REGULARTIMEPOINT_RINTERVALSCHEDULE" value="0x00000001fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="OUTAGESCHEDULE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="OTS_00001" />
+            <Property id="IDOBJ_NAME" value="OTS_01" />
+            <Property id="IDOBJ_ALIASNAME" value="OTS_01" />
+            <Property id="BASICINTERVALSCHEDULE_STARTTIME" value="635745888000000000" />
+            <Property id="BASICINTERVALSCHEDULE_VAL1MULTIPLIER" value="p" />
+            <Property id="BASICINTERVALSCHEDULE_VAL1UNIT" value="ohm" />
+            <Property id="BASICINTERVALSCHEDULE_VAL2MULTIPLIER" value="p" />
+            <Property id="BASICINTERVALSCHEDULE_VAL2UNIT" value="min" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="IRREGULARTIMEPOINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="IRTP_00001" />
+            <Property id="IDOBJ_NAME" value="IRTP_00001" />
+            <Property id="IDOBJ_ALIASNAME" value="IRTP_00001" />
+            <Property id="IRREGULARTIMEPOINT_TIME" value="6" />
+            <Property id="IRREGULARTIMEPOINT_VALUE1" value="111.1" />
+            <Property id="IRREGULARTIMEPOINT_VALUE2" value="322.2" />
+            <Property id="IRREGULARTIMEPOINT_IRINTERVALSCHEDULE" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="SWITCHINGOPERATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="7898532" />
+            <Property id="IDOBJ_NAME" value="SO_00001" />
+            <Property id="IDOBJ_ALIASNAME" value="SO_00001" />
+            <Property id="SWITCHINGOPERATION_NEWSTATE" value="open" />
+            <Property id="SWITCHINGOPERATION_OPERATIONTIME" value="632508480000000000" />
+            <Property id="SWITCHINGOPERATION_OUTAGESCHEDULE" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="DISCONNECTOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="DISCC_00001" />
+            <Property id="IDOBJ_NAME" value="DISCC_00001" />
+            <Property id="IDOBJ_ALIASNAME" value="DISCC_00001" />
+            <Property id="SWITCH_SWITCHINGOPERATION" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>
