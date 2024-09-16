@@ -1,0 +1,36 @@
+D:\Vezbe\11\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\11\ModelLabs\NetworkModelService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+C:\Users\colak\Desktop\Milesevic\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csprojAssemblyReference.cache
+C:\Users\colak\Desktop\Milesevic\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CoreCompileInputs.cache
+C:\Users\colak\Desktop\Milesevic\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+C:\Users\colak\Desktop\Milesevic\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+C:\Users\colak\Desktop\Milesevic\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+C:\Users\colak\Desktop\Milesevic\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+C:\Users\colak\Desktop\Milesevic\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CopyComplete
+C:\Users\Darie\Desktop\Nikola_Rakita\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+C:\Users\Darie\Desktop\Nikola_Rakita\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+C:\Users\Darie\Desktop\Nikola_Rakita\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.AssemblyReference.cache
+C:\Users\Darie\Desktop\Nikola_Rakita\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CoreCompileInputs.cache
+C:\Users\Darie\Desktop\Nikola_Rakita\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CopyComplete
+C:\Users\Darie\Desktop\Nikola_Rakita\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+C:\Users\Darie\Desktop\Nikola_Rakita\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+C:\Users\wcfservice2\Desktop\Nikola_Rakita-IES projekat\Nikola_Rakita\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+C:\Users\wcfservice2\Desktop\Nikola_Rakita-IES projekat\Nikola_Rakita\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+C:\Users\wcfservice2\Desktop\Nikola_Rakita-IES projekat\Nikola_Rakita\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.AssemblyReference.cache
+C:\Users\wcfservice2\Desktop\Nikola_Rakita-IES projekat\Nikola_Rakita\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CoreCompileInputs.cache
+C:\Users\wcfservice2\Desktop\Nikola_Rakita-IES projekat\Nikola_Rakita\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkM.C13A89EF.Up2Date
+C:\Users\wcfservice2\Desktop\Nikola_Rakita-IES projekat\Nikola_Rakita\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+C:\Users\wcfservice2\Desktop\Nikola_Rakita-IES projekat\Nikola_Rakita\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
